@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Cortes Quijano</h1>
-<h3 align="center">A eternal student from Mexico</h3>
+<h3 align="center">I am software developer</h3>
 
 <!--
 **pcorqui/pcorqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
